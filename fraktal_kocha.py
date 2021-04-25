@@ -1,5 +1,4 @@
 import turtle
-import time
 
 def krzywaKocha(d, n):
     f.pendown()
